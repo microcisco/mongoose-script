@@ -2,13 +2,13 @@
 [![travis][travis-image]][travis-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
 [travis-image]: https://img.shields.io/travis/feross/safe-buffer/master.svg
-[travis-url]: https://github.com/
+[travis-url]: https://github.com/microcisco/mongoose-script
 [npm-image]: https://img.shields.io/npm/v/safe-buffer.svg
-[npm-url]: https://github.com/
+[npm-url]: https://github.com/microcisco/mongoose-script
 [downloads-image]: https://img.shields.io/npm/dm/safe-buffer.svg
-[downloads-url]: https://github.com/
+[downloads-url]: https://github.com/microcisco/mongoose-script
 [standard-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
-[standard-url]: https://github.com/
+[standard-url]: https://github.com/microcisco/mongoose-script
 
 ### 简介
 各位大佬看到这个项目的名字不要喷我哈，我只是想蹭一下mongoose热度让更多人看到而已...至于好不用好用过了就知道了。
@@ -86,4 +86,4 @@ all，一个是get，get接口如果没有数据则返回null如果有多个数�
 
 ## links
 
-- [git](https://github.com/)
+- [git](https://github.com/microcisco/mongoose-script)
