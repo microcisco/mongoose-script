@@ -43,7 +43,7 @@ async function main() {
     /**@mongoose.Model*/
     let test = new Test();
     test.name = 'test';
-    test.save();
+    await test.save();
 
 }
 
