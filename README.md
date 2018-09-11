@@ -1,5 +1,4 @@
-# mongoose-script 
-[![travis][travis-image]][travis-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
+# mongoose-script [![travis][travis-image]][travis-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
 [travis-image]: https://img.shields.io/travis/feross/safe-buffer/master.svg
 [travis-url]: https://github.com/microcisco/mongoose-script
